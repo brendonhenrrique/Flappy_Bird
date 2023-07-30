@@ -1,15 +1,10 @@
-# Flappy_Bird
  
 <h1 align="center">
 Seja Bem-vindo! 🙋‍♂️
 </h1>
 
-
-
-
-
 <h2 align="center">
-    <img alt="Flappy" src="" />
+    <img alt="Flappy" src="./imgs/497bf8f9-ac2f-4bef-a05a-3d74a48194c5.gif" />
 </h2>
 
 <br>
@@ -42,7 +37,7 @@ O Flappy Bird é um jogo clássico dos dispositivos móveis que conquistou milh�
 
 Nossa motivação é aprimorar nossas habilidades em front-end e nos desafiarmos a criar o jogo sem o uso de bibliotecas ou frameworks externos. Queremos mergulhar no HTML para a estruturação da página, utilizar o CSS para dar vida ao layout e a estilização, e implementar toda a lógica do jogo com JavaScript puro.
 
-Projeto foi desenvolvido durante o Curso **[Web Moderno Completo com JavaScirpt 2020 + Projetos](https://www.udemy.com/share/1013eS3@QCG18scCQqKNc5ybG1CiBN0iZc6bBJbMi3PLX4HS0JMbfl6WBv5s_cq_UMlwksMU4w==/)**.
+Projeto foi desenvolvido durante o Curso **[Web Moderno Completo com JavaScript 2020 + Projetos](https://www.udemy.com/share/1013eS3@QCG18scCQqKNc5ybG1CiBN0iZc6bBJbMi3PLX4HS0JMbfl6WBv5s_cq_UMlwksMU4w==/)**.
 
 
 ## License

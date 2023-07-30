@@ -66,3 +66,27 @@
     font-family: Pixel;
     font-size: 70px;
 }
+.restart {
+    position: absolute;
+    height: 150px;
+    width: 400px;
+    top: calc(50% - 75px);
+    left: calc(50% - 200px);
+    border-radius: 10px;
+    font-family: Pixel;
+    font-size: 70px;
+    color: #eee;
+    background: linear-gradient(to top ,#639301, #a5e82e );
+    border: solid 3px #eee;
+}
+.restart:hover{
+    color:#ddd;
+    border-color: #ddd;
+}
+.restart:focus{
+    height: 120px;
+    width: 380px;
+    top: calc(50% - 60px);
+    left: calc(50% - 190px);
+    font-size: 60px;
+}
